@@ -1,7 +1,8 @@
-openai
 streamlit
 pandas
 matplotlib
 plotly
 openai
 langchain
+python-dotenv
+tiktoken
